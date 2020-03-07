@@ -1,3 +1,3 @@
-# HotHell-Management-on-Tkinter
-Hotel Management System made with Python using tkinter
+# White Board
+A writing sheet made with Python using tkinter
 
